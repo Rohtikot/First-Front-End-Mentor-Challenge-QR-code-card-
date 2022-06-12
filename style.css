@@ -1,0 +1,50 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.card {
+  box-sizing: border-box;
+  padding: 16px;
+  width: 320px;
+  height: 498px;
+  border-radius: 20px;
+  background: hsl(0, 0%, 100%);
+  margin: 0 auto;
+}
+
+#QR-code {
+  width: 288px;
+  border-radius: 10px;
+}
+
+.textbox {
+  margin: 0 auto;
+  width: 272px;
+}
+
+h1 {
+  font-family: 'Outfit', sans-serif;
+  font-size: 22px;
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  text-align: center;
+  margin-top: 25px;
+}
+
+.card p{
+  font-family: 'Outfit', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  color:hsl(220, 15%, 55%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
